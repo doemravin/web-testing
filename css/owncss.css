@@ -352,7 +352,7 @@ transform: scaleY(0.7) scaleX(0.2);
    
     @keyframes slider{
         0%{
-            background-image: url(image/11.jpg);
+            background-image: url(/image/11.jpg);
         }
         20%{
             background-image: url(/image/22.jpg);
