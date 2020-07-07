@@ -517,7 +517,7 @@ h3 h2{
 
 .bg_img {
     background: url(/image/NIPTICT12.jpg) top center no-repeat;
-    background-size: cover;
+    background-size: 100%;
     position: relative;
     padding-top: 60px;
     padding-bottom: 60px;
